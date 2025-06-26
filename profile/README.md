@@ -1,4 +1,3 @@
 <div align='center'>
-<img src="../Logo.png" />
-<img src="../sublogo.png" />
+    <img src="../logowithsublogo.png" />
 </div>
